@@ -1,4 +1,4 @@
-# Non-line-of-sight imaging with adaptive artifact cancellation Code & Datasets
+# Canny operator based artifact identification and suppression for Non-line-of-sight imaging, Code & Datasets
 
 This repository contains code for the paper _Canny operator based artifact identification and suppression for Non-line-of-sight imaging_ by Zhongyun Chen,Ziyang Chen,Zhiwei Li,Wenjie Tang,Dejian Zhang,Tongbiao Wang,Qiegen Liu,Tianbao Yu
 
